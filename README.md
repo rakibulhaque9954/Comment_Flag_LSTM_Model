@@ -1,5 +1,5 @@
 # LSTM Comment Flagger for [Blogzart](https://github.com/rakibulhaque9954/blog_remastered.git)
-[日本語]
+[日本語](https://github.com/rakibulhaque9954/Comment_Flag_LSTM_Model/blob/514ae75a47caf5d4d31aada24068fde0e3931556/%E6%97%A5%E6%9C%AC%E8%AA%9EREADME.md)
 
 ## Overview
 

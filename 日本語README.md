@@ -1,4 +1,4 @@
-# LSTMコメントフラッガー
+# LSTMコメントフラッガー[ブログザート](https://github.com/rakibulhaque9954/blog_remastered.git)用
 
 ## 概要
 
